@@ -79,7 +79,7 @@
 </p>
 
 <div align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreekant2x&show_icons=true&locale=en&layout=compact&theme=radical" alt="sreekant2x" style="margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sreekant2x&show_icons=true&locale=en&theme=radical" alt="sreekant2x" style="margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekant2x&theme=radical" alt="sreekant2x" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreekant2x&show_icons=true&locale=en&layout=compact&theme=radical" alt="sreekant2x" style="margin:10px padding=5px;;"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sreekant2x&show_icons=true&locale=en&theme=radical" alt="sreekant2x" style="margin: 10px padding=5px;;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekant2x&theme=radical" alt="sreekant2x" style="margin: 10px padding=5px;"/>
 </div>
