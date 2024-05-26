@@ -12,7 +12,7 @@
 
   - 📫 How to reach me: **sreekantsaha@gmail.com**
 
-  - 📄 Know about my experiences: [My Resume](https://example.com) <!-- Replace with actual resume link -->
+  - 📄 Know about my experiences: [My Resume](https://sreekant2x.github.io/html-css-js-portfolio/assects/Sreekants-CV.pdf) <!-- Replace with actual resume link -->
 
   - ⚡ Fun fact: **I think I am Dilutional**
 </div>
